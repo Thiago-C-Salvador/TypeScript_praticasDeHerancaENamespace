@@ -1,0 +1,8 @@
+A aplicação HERANCAS foi pensada para fazer uso de classes pai e filhas (trabalhar com herança) e aplicar conhecimentos do modificadores de acesso:
+* public (propriedades e métodos podem ser acessado tanto pela mesma classe, classes filhas, outras classes e em outros módulos);
+* private (propriedades e métodos podem ser acessada somente pela própria classe);
+* protected (propriedades e métodos podem ser acessada pela mesma classe e classes filhas e podem ser alteradas através de método criados dentro das classes filhas);
+* readonly (pode ser acessado fora da classe, mas não é possível alterar o seu valor);
+Nesta aplicação simuala-se a bertura de conta em um banco, não estando todas as funções, se comparando a um uso real, contendo todas as informações necessárias, como porexemplo o método/função deposito e saque, mas sim para compreender a foram de se gerar e acesar propriedades e métodos a denpender do seu modificador de acesso.
+
+Já a aplicação NAMESPAC é trabalhado a prática para a criação de um espaço declarativo que fornece um escopo para funções, variáveis, classes, objetos etc. Com o uso do namespace é possível dar uma maior organização ao código, uma vez que a separação das classes, propriedades e funções/métodos ficam mais claros e intuitivos. 
